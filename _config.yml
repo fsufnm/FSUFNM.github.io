@@ -16,9 +16,9 @@ highlighter: rouge
 
 
 ### content configuration ###
-title:       "FSU FNM2015"
+title:       "FSU FNM2017"
 keywords:    ""
-description: "Florida State University 2015 Festival of New Music"
+description: "Florida State University 2017 Festival of New Music"
 source_link: "https://github.com/fsufnm/FSUFNM.github.io"
 favicon:     "img/favicon.png"
 touch_icon:  "img/apple-touch-icon.png"
