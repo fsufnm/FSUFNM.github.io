@@ -1,0 +1,11 @@
+---
+composer: "Demos Nickitas"
+composition: "eight shades of metal"
+date: 2014
+performers: "Saxophone quartet: Katherine Weintraub, soprano; Cole Belt, alto; Nick Childs, tenor; Galo Morales, baritone<br>Trombone quartet: Kyle Schaefer, Tyler Coffman, Kevin Clancy, Jonathan Lacey (bass)<br>Trey Harris, conductor"
+---
+**Nickitas Demos** (b. 1962) holds a DMA in Composition from the Cleveland Institute of Music where he studied with Donald Erb (1927-2008). Commissions include works for the Cleveland Orchestra, Atlanta Ballet, Nashville Chamber Orchestra and the National Association of College Wind & Percussion Instructors. He is the recipient of numerous grants and awards including: Semi-Finalist in the 2015 Rapido! Composition Competition; MacDowell Fellowship (2012); Grand Prize: 2004 Millennium Arts International Competition for Composers; Grand Prize: 2005 Holyoke Civic Symphony Composition Competition; and 18 ASCAP Awards among others. His music is self-published through Sylvan Lake Press (ASCAP) and recorded on Ablaze Records, Albany Records, Capstone Records and MSR Classics. He is Professor of Music Composition, Coordinator of Composition Studies and Artistic Director of the neoPhonia New Music Ensemble at the Georgia State University School of Music. For more info visit: [http://nickitasdemos.com](http://nickitasdemos.com)
+
+|||
+
+I was intrigued by the idea of writing for this instrumental combination, because I find areas of similarity and contrast between the sax & trombone quartets. Both the trombones and saxophones are made of brass and exude a certain powerful timbre. That trombones should produce this power is perhaps not surprising. However, one does not tend to think of woodwind instruments as “powerful.” The saxophone family is the exception to this rule. This may well be due to the origins of the saxophone. The instrument can trace its development back to the ophicleide, a keyed brass instrument of the 19th century. Despite taking advantage of some timbral similarities, the piece also seeks to highlight the unique differences between the two instrumental families. There is no programmatic element to **_eight shades of metal_**. Given my interest in fast, rhythmic music, I sought to create a rollicking good time for the performers. It’s my hope that this translates well and that audiences experience a similar joy.

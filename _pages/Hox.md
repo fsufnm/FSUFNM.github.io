@@ -1,0 +1,11 @@
+---
+composer: "Taylor Stephen"
+composition: "Hox"
+date: 2014
+performers: "Katherine Weintraub, soprano saxphone<br>Cole Belt, alto saxophone<br>Nick Childs, tenor saxophone<br>Galo Morales, baritone saxophone"
+---
+**Stephen Andrew Taylor** composes music that explores boundaries between art and science. His first orchestra commission, *Unapproachable Light*—inspired by images from the Hubble Space Telescope and the New Testament—was premiered by the American Composers Orchestra in 1996 in Carnegie Hall. Other works include the quartet *Quark Shadows*, commissioned by the Chicago Symphony; and *Seven Memorials*, a 30-minute cycle for piano inspired by the work of Maya Lin and featured at Tanglewood in 2006. *The Machine Awakes*, a CD of his orchestra, chamber and electronic music, was released in 2010 on Albany Records. *Paradises Lost*, an opera based on a novella by Ursula K. Le Guin, received its Toronto premiere in 2013, conducted by the composer. In popular music he has worked with Pink Martini and rock singer Storm Large. A 2014 Guggenheim fellow, Taylor is Professor of Music at the University of Illinois, where he lives with his spouse, artist Hua Nian, and their two children.
+
+|||
+
+The ancient gene **_Hox_**, found in everything from people to sea cucumbers, has the crucial job of telling where to put our heads and our tails. This saxophone quartet is in three parts: the first, “Homeobox,” represents the oldest section of the gene, conserved for millions of years; it refers to a chunk of DNA (the box) that stays the same (homeo). The rhythms are sonifications of the four bases (CATG), while the harmonies represent the amino acids that the DNA encodes; these form the Hox protein. In the second movement, “Helix turn helix,” melodies and canons are based on a part of this protein whose job is to latch onto DNA (here, fast descending scales) and unwind it, so its instructions can be read by other genes. Finally, the last movement, “From head to tail” is an impression of the gene doing its job: at first, its melodic gestures start only to end in dissolution. But gradually, the end becomes more forceful, culminating in a group of chords that grow more and more emphatic.

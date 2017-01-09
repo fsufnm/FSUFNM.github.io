@@ -1,0 +1,37 @@
+---
+
+port: 4000
+host: 0.0.0.0
+safe: false
+
+
+### site serving configuration ###
+include: ['_pages']
+exclude: [CNAME, README.md, .gitignore]
+permalink : /:year
+timezone: null
+lsi: false
+markdown: kramdown
+highlighter: rouge
+
+### content configuration ###
+title:       "FSU FNM2017"
+keywords:    ""
+description: "Florida State University 2017 Festival of New Music"
+source_link: "https://github.com/fsufnm/FSUFNM.github.io"
+favicon:     "img/favicon.png"
+touch_icon:  "img/apple-touch-icon.png"
+google_analytics_key: UA-57870929-1 ## put YOUR key here to enable tracking! (blank to disable)
+
+
+### template colors, used site-wide via css ###
+colors:
+  black:     '#111111'
+  white:     '#f8f8f8'
+  garnet:    '#782F40'
+  gold:      '#CEB888'
+  blue:      '#49a7e9'
+  green:     '#9bcf2f'
+  purple:    '#c869bf'
+  orange:    '#fab125'
+  turquoise: '#0fbfcf'

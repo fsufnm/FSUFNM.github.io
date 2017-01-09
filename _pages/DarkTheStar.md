@@ -1,0 +1,11 @@
+---
+composer: "Primosch James"
+composition: "Dark the Star"
+date: 2008
+performers: "Evan T. Jones, baritone; Deborah Bish, clarinet; Greg Sauer, cello; Heidi Williams, piano; Peter Seroka, percussion; Alexander Jimenez, conductor"
+---
+Born in Cleveland, Ohio, **James Primosch** studied at Cleveland State University, University of Pennsylvania, and Columbia University. He counts Mario Davidovsky, George Crumb and Richard Wernick among his principal teachers. Primosch's works have been performed throughout the United States and in Europe by such ensembles and artists as the Los Angeles Philharmonic, the St. Paul Chamber Orchestra, the Chicago Symphony, the Albany Symphony, Collage, the New York New Music Ensemble, the 21st Century Consort, Lambert Orkis, and Dawn Upshaw. He has received a grant from the National Endowment for the Arts, a Guggenheim Fellowship, three prizes from the American Academy of Arts and Letters, the Stoeger Prize of the Chamber Music Society of Lincoln Center, and a fellowship to Tanglewood where he studied with John Harbison. In 1994 he was in residence at the Marlboro Music Festival. 19 of his compositions are available on CD. He has taught at University of Pennsylvania since 1988.
+
+|||
+
+Composing this cycle of songs began with my discovery of three poems in Susan Stewart’s collection Columbarium that I knew I must set to music. The deep, dreamlike wisdom of these poems haunted me, just as I had experienced with Susan’s poem “Cinder” that had served as the fulcrum of my song cycle Holy the Firm. Eventually, texts by Rilke and an earlier setting I had done of a psalm verse were drawn into the gravitational orbit of Susan’s poems. I ordered the texts in a nearly symmetrical pattern, with two texts set a second time in versions that shadow their first readings. This is partly for the sake of the formal design, but, more importantly, to re-examine the poems in the penumbra of what comes before. Rounding the cycle in this way reflects not only the circles and repetitions in Susan Stewart’s texts, but also the way in which, as Rilke writes, the things we have let go of yet encircle us. **_Dark the Star_** was premiered by William Sharp and the 21st Century Consort.
