@@ -2,7 +2,7 @@
 composer: "Primosch James"
 composition: "Dark the Star"
 date: 2008
-performers: "Evan T. Jones, baritone; Deborah Bish, clarinet; Greg Sauer, cello; Heidi Williams, piano; Peter Seroka, percussion; Alexander Jimenez, conductor"
+performers: "Evan T. Jones, baritone; Deborah Bish, clarinet; Greg Sauer, cello; Heidi Williams, piano; Peter Soroka, percussion; Alexander Jimenez, conductor"
 ---
 Born in Cleveland, Ohio, **James Primosch** studied at Cleveland State University, University of Pennsylvania, and Columbia University. He counts Mario Davidovsky, George Crumb and Richard Wernick among his principal teachers. Primosch's works have been performed throughout the United States and in Europe by such ensembles and artists as the Los Angeles Philharmonic, the St. Paul Chamber Orchestra, the Chicago Symphony, the Albany Symphony, Collage, the New York New Music Ensemble, the 21st Century Consort, Lambert Orkis, and Dawn Upshaw. He has received a grant from the National Endowment for the Arts, a Guggenheim Fellowship, three prizes from the American Academy of Arts and Letters, the Stoeger Prize of the Chamber Music Society of Lincoln Center, and a fellowship to Tanglewood where he studied with John Harbison. In 1994 he was in residence at the Marlboro Music Festival. 19 of his compositions are available on CD. He has taught at University of Pennsylvania since 1988.
 
