@@ -2,7 +2,7 @@
 composer: "Andriessen Louis"
 composition: "Garden of Eros"
 date: 2002
-performers: "Eppes Quartet: Jia-Rang Gan, Sophia Han, Shelby Thompson, Adam Collins"
+performers: "Eppes Quartet: Jia-Rong Gan, Sophia Han, Shelby Thompson, Adam Collins"
 ---
 
 |||
