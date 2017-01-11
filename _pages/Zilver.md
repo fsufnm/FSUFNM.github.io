@@ -2,7 +2,7 @@
 composer: "Andriessen Louis"
 composition: "Zilver"
 date: 1994
-performers: "Laura Clapper, flute; Jake Meyer, clarinet; Marianna Brickle, violin; Aleksa Pereverseva, cello; Chad Spears, piano; Mitchell Gribbroek, vibraphone;  Jack Rutledge, marimba; James Chang, conductor"
+performers: "Laura Clapper, flute; Jake Meyer, clarinet; Marianna Brickle, violin; Aleksandra Pereverzeva, cello; Chad Spears, piano; Mitchell Gribbroek, vibraphone;  Jack Rutledge, marimba; James Chang, conductor"
 ---
 |||
 

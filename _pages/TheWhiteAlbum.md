@@ -1,9 +1,9 @@
 ---
 composer: "Kilstofte Mark"
 composition: "The White Album"
-subtitles: ["I. White", "II. The Mad Scene"]
+subtitles: ["II. The Mad Scene", "III. I Am Learning to Abandon the World"]
 date: 2014
-performers: "Feryal Qudourah, soprano; Ayça Çetin, flute; Katsuya Yuasa, clarinet; Dani Hoisington, violin; Aleksa Pereverseva, cello; YingYing Wang, piano; Andrew Bockman, percussion; Rachel Friedman, conductor"
+performers: "Feryal Qudourah, soprano; Ayça Çetin, flute; Katsuya Yuasa, clarinet; Dani Hoisington, violin; Aleksandra Pereverzeva, cello; YingYing Wang, piano; Andrew Bockman, percussion; Rachel Friedman, conductor"
 ---
 **Mark Kilstofte** is "admired as a composer of lyrical line, engaging harmony, strong, dramatic gesture and keen sensitivity to sound, shape and event." Praised by the San Francisco Chronicle as “exciting and beautiful, consistently gripping,” his music has garnered a growing number of awards and honors including the Rome Prize, the Guggenheim Fellowship, ASCAP’s Rudolf Nissim Award, and the Goddard Lieberson Fellowship and Charles Ives Scholarship from the American Academy of Arts and Letters. His music, performed regularly throughout North America and Europe, has been featured on NPR’s Performance Today and From the Top and heard in concert halls from Moscow to Bangkok. Kilstofte is a graduate of St. Olaf College and The University of Michigan. He currently teaches composition at Furman University and is a visiting professor at the University of Oslo’s Center for Ibsen Studies, where he is writing an opera based on Ibsen’s Brand. His music is published by the Newmatic Press.
 
