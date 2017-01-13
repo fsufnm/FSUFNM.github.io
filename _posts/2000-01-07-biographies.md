@@ -15,7 +15,6 @@ style: center
 [Evan T. Jones](http://www.music.fsu.edu/Faculty-and-Staff/Faculty/Evan-T.-Jones) ·
 [Lisa Kachouee](http://lisakachouee.com/bio/) ·
 [Phyllis Pancella](http://www.barrettvantage.com/artist.php?id=ppancella&aview=bio) ·
-[Lawrence Quinnett](http://www.lawrencequinnett.com/about.html) ·
 [Pamela Ryan](http://www.music.fsu.edu/Faculty-and-Staff/Faculty/Pamela-Ryan) ·
 [Gregory Sauer](http://www.music.fsu.edu/Faculty-and-Staff/Faculty/Greg-Sauer) ·
 [Benjamin Sung](http://www.music.fsu.edu/Faculty-and-Staff/Faculty/Ben-Sung) ·
