@@ -2,7 +2,7 @@
 composer: "Koonce Paul"
 composition: "Parallax"
 date: 2013
-performers: "eight-channel fixed media sound"
+performers: "eight-channel fixed media"
 ---
 **Paul Koonce** (b.1956) studied composition at the University of Illinois and the University of California, San Diego where he received the Ph.D. in Music. He is the recipient of fellowships from the Guggenheim and McKnight Foundations, and has received awards and commissions from the Luigi Russolo Competition, the National Flute Association, Prix Ars Electronica, IMEB, ICMA, and Dartmouth College. His music is available on CD from SEAMUS, Mnemosyne, ICMA, Panorama, Innova, Einstein, Centaur, Computer Music Journal, and Mode records. He holds the position of Professor of Music at the University of Florida.
 
