@@ -1,5 +1,5 @@
 ---
-composer: "Stochl Ondřej"
+composer: "Štochl Ondřej"
 composition: "Šeptet (7/whispers)"
 date: 2014
 performers: "Jen Kabbas, clarinet; Petra Bubanja and Edward Charity, violins; Jack Flores, cello; DK Issitt, contrabass; Huizi Zhang, piano; Jeremy Avalos, guitar; Michael Douty, conductor"
