@@ -2,7 +2,7 @@
 composer: "Štochl Ondřej"
 composition: "Šeptet (7/whispers)"
 date: 2014
-performers: "Jen Kabbas, clarinet; Petra Bubanja and Edward Charity, violins; Jack Flores, cello; DK Issitt, contrabass; Huizi Zhang, piano; Jeremy Avalos, guitar; Michael Douty, conductor"
+performers: "Hank Lundrum, clarinet; Petra Bubanja and Edward Charity, violins; Jack Flores, cello; DK Issitt, contrabass; Huizi Zhang, piano; Jeremy Avalos, guitar; Michael Douty, conductor"
 ---
 **Ondřej Štochl** (b. 1975) studied viola and composition at the Prague Conservatoire. He continued his composition studies under Marek Kopelent at the Academy of Performing Arts in Prague. His works include chamber and orchestral pieces, sometimes with voice and electronics. Since 2002, he has been the Artistic Leader as well as violist of the renowned “Ensemble Konvergence“ in Prague. In this role, he curates the Ensemble’s concert series and festival projects (Brno International Music Festival, Prague Spring Festival, Mélos-Étos Bratislava, Unerhörte Musik Berlin). He also took part in ISCM World Music Days in Hong-Kong. His works have been commissioned by leading orchestras and ensembles such as Prague Modern, Brno Contemporary Orchestra, and Berg Orchestra. He is a Professor of Composition at the Jan Deyl Conservatory in Prague. He has an extended discography, and some of his most recent music can be heard his latest CD, _on the way to kindness_. [www.ondrejstochl.info](www.ondrejstochl.info).
 
