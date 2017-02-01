@@ -26,6 +26,8 @@ fa-icon: music
 [Heidi Williams](http://www.music.fsu.edu/Faculty-and-Staff/Faculty/Heidi-Louise-Williams) ·
 [Hui-Ting Yang](http://music.troy.edu/faculty-staff/yang.html)
 
+Turkish flutist **Ayça Çetin** performed throughout Turkey, United States, England, Italy, and Kosovo. Having opportunities to perform in many conventions and festivals, she won prizes in several solo flute competitions. She is currently pursuing her DMA at Florida State University as a teaching assistant while touring with Duo Esplanade.
+
 **James Chang** is a master's student in orchestral conducting at FSU, studying with Dr. Alexander Jiménez. He is currently the assistant conductor of the University Symphony Orchestra, and has also conducted the Tallahassee Summer Sinfonietta and the University's Philharmonia Orchestra and Campus Orchestra. James holds two degrees in music and in engineering from Northwestern University, and has performed as conductor, pianist, violinist, violist, and erhuist.
 
 Pianist **Brett Chittenden** is currently pursuing a Masters Degree in Accompanying under the instruction of Professor Valerie Trujillo.  He completed his Bachelors Degree in piano performance from Murray State University in May 2016.
