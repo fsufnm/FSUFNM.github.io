@@ -26,6 +26,11 @@ fa-icon: music
 [Heidi Williams](http://www.music.fsu.edu/Faculty-and-Staff/Faculty/Heidi-Louise-Williams) ·
 [Hui-Ting Yang](http://music.troy.edu/faculty-staff/yang.html)
 
+Guitarist **Jeremy Avalos** was born in Miami, Florida. He is currently pursuing doctoral studies at Florida State University under the tutelage of Bruce Holzman. He received his Bachelor of Music in Music Theory and Creative Writing from FSU, and he received his Master of Music in String Performance from the University of Akron where his teachers included Stephen Aron and James Marron. Mr. Avalos has been a finalist in numerous guitar competitions throughout the country, and he has performed as a solo artist throughout Northeast Ohio and South Florida. 
+
+Violinist **Marianna Brickle** is pursuing a DM at FSU under the tutelage of Corinne  Stillwell. She holds a MM from FSU and a BM from the University of Maryland where she studied with David Salness. Marianna performs in both the Tallahassee and Ocala Symphony Orchestras and is on the faculty of Thomasville Road Academy of the Arts.
+
+
 Turkish flutist **Ayça Çetin** performed throughout Turkey, United States, England, Italy, and Kosovo. Having opportunities to perform in many conventions and festivals, she won prizes in several solo flute competitions. She is currently pursuing her DMA at Florida State University as a teaching assistant while touring with Duo Esplanade.
 
 **James Chang** is a master's student in orchestral conducting at FSU, studying with Dr. Alexander Jiménez. He is currently the assistant conductor of the University Symphony Orchestra, and has also conducted the Tallahassee Summer Sinfonietta and the University's Philharmonia Orchestra and Campus Orchestra. James holds two degrees in music and in engineering from Northwestern University, and has performed as conductor, pianist, violinist, violist, and erhuist.
@@ -48,6 +53,8 @@ She is currently a doctoral student in the Piano Performance program at Florida 
 **Jonathan M. Lacey** is pursuing a Doctor of Music degree at Florida State University. He earned his Bachelor and Master of Music degrees from Valdosta State University in Music Performance. He is currently the Principal Bass Trombonist with Sinfonia Gulf Coast. Jonathan has performed internationally in various jazz/commercial and orchestral settings. He has studied with Dr. Doug Farwell and Dr. John Drew.
 
 **Hank Landrum** is currently in his second year at Florida State University, pursuing a Bachelor of Music in Clarinet Performance. At FSU, he studies with both Dr. Deborah Bish and Dr. Jonathan Holden, and is a member of many ensembles. Hank has played in a number of masterclasses for both Dr. Bish and Dr. Holden, but also for esteemed clarinetist Marc Nuccio of the New York Philharmonic. Hank was the 2016 winner of the Northwest Florida Symphony Orchestra’s Concerto Competition, and will perform Crusell’s 3rd Clarinet Concerto with the NFSO in May. He also subs with the Pensacola Symphony Orchestra and the NFSO.
+
+Pianist **Chun Paige Li** is currently pursuing doctoral studies at FSU under the tutelage of Read Gainsford. She received her Bachelor and Master of Music both from Cleveland Institute of Music. She has performed in many recitals, master classes, and music festivals throughout the country. She is passionate about chamber music, new music, and piano pedagogy. 
 
 Cellist **Carrie Miller** is currently pursuing a masters in performance at FSU working with Professor Greg Sauer. She received her Bachelor of Music from California State University Sacramento in 2014 where she had masterclasses with pianist-composer Eric Zivian, cellist Timothy Eddy, and cellist Steven Doane. In 2015 she performed the Lalo Cello Concerto after being a winner of the CSU Sacramento Concerto Competition.
 
