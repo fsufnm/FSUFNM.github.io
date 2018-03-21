@@ -529,56 +529,6 @@ html { box-sizing: border-box; }
   
   
   
-  nav .p-about { border-color: #111111; }
-  #about { background-color: #111111 !important; color: #f8f8f8; }
-  #about a { color: #f8f8f8; font-weight: 700; }
-  
-    #about .sectiondivider { color: #111111; }
-  
-
-  
-  
-  
-  nav .p-biographies { border-color: #CEB888; }
-  #biographies { background-color: #CEB888 !important; color: #782F40; }
-  #biographies a { color: #782F40; font-weight: 700; }
-  
-    #biographies .sectiondivider { color: #CEB888; }
-  
-
-  
-  
-  
-  nav .p-notes { border-color: #782F40; }
-  #notes { background-color: #782F40 !important; color: #CEB888; }
-  #notes a { color: #CEB888; font-weight: 700; }
-  
-    #notes .sectiondivider { color: #782F40; }
-  
-
-  
-  
-  
-  nav .p-program { border-color: #f8f8f8; }
-  #program { background-color: #f8f8f8 !important; color: #111111; }
-  #program a { color: #111111; font-weight: 700; }
-  
-    #program .sectiondivider { color: #111111; }
-  
-
-  
-  
-  
-  nav .p-events { border-color: #CEB888; }
-  #events { background-color: #CEB888 !important; color: #111111; }
-  #events a { color: #111111; font-weight: 700; }
-  
-    #events .sectiondivider { color: #CEB888; }
-  
-
-  
-  
-  
   nav .p-guests { border-color: #782F40; }
   #guests { background-color: #782F40 !important; color: #CEB888; }
   #guests a { color: #CEB888; font-weight: 700; }
@@ -714,7 +664,7 @@ nav ul li {
   line-height:normal;
   letter-spacing:normal;
   text-transform:uppercase;
-  min-width:120px; /* changed from 110px */
+  min-width:220px; /* changed from 110px */
   line-height:60px;
   margin:0;
 }
