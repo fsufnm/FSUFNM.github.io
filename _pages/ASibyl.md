@@ -1,0 +1,11 @@
+---
+composer: "Primosch James"
+composition: "A Sibyl"
+date: 2017
+performers: "Marcía Porter, soprano; Karen Large, flute; Deborah Bish, clarinet; Nina Kim, violin; Evan Jones, cello; Heidi Williams, piano; Justin Ball, percussion; Alexander Jimenez, conductor"
+---
+
+Born in Cleveland, OH in 1956, **James Primosch** studied at Cleveland State University, the University of Pennsylvania, and Columbia University, working with Davidovsky, Crumb, and Wernick. He later studied with Harbison at Tanglewood. Primosch's instrumental, vocal, and electronic works have been performed widely by such ensembles as the Los Angeles Philharmonic, the St. Paul Chamber Orchestra, Collage, the New York New Music Ensemble, and the Twenty-First Century Consort. Commissioned works have been premiered by the Chicago Symphony, the Albany Symphony, Speculum Musicae, the Cantata Singers, and pianist Lambert Orkis. He has received are a grant from the National Endowment for the Arts, a Guggenheim Fellowship, three prizes from the American Academy of Arts and Letters, a Regional Artists Fellowship to the American Academy in Rome, a Pew Fellowship in the Arts, the Stoeger Prize of the Chamber Music Society of Lincoln Center. 20 of his compositions have been recorded for CD.
+|||
+
+When I asked my friend Susan Stewart to write a set of poems for a new work for soprano, she responded with reflections on the mysterious prophetess spoken of in Virgil and Ovid. The sibyl sings of her prophecies written on leaves, and of how the god possesses her; she warns Aeneas before his descent to the underworld; she celebrates the moon. Having been granted eternal life, but failing to ask for eternal youth, she is reduced to no more than her voice. I understand the sibyl as an archetype of the musician who sings for us of fate and the mysteries of life, death, and love; who guides us in moonlit and shadowy places; and whose prophetic voice resounds unendingly, in power, and in vulnerability. **_A Sibyl_** was written for Collage New Music on a commission from the Fromm Music Foundation.

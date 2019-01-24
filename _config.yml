@@ -3,6 +3,7 @@
 port: 4000
 host: 0.0.0.0
 safe: false
+encoding: utf-8
 
 
 ### site serving configuration ###
