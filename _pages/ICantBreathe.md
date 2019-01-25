@@ -1,5 +1,5 @@
 ---
-composer: "Haas George Friedrich"
+composer: "Haas Georg Friedrich"
 composition: "I Can't Breathe (in memoriam Eric Garner)"
 date: 2014
 performers: "Matthew Mignardi, trumpet"
