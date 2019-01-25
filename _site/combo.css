@@ -549,16 +549,6 @@ html { box-sizing: border-box; }
   
   
   
-  nav .p-notes { border-color: #782F40; }
-  #notes { background-color: #782F40 !important; color: #CEB888; }
-  #notes a { color: #CEB888; font-weight: 700; }
-  
-    #notes .sectiondivider { color: #782F40; }
-  
-
-  
-  
-  
   nav .p-program { border-color: #f8f8f8; }
   #program { background-color: #f8f8f8 !important; color: #111111; }
   #program a { color: #111111; font-weight: 700; }
