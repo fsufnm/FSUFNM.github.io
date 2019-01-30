@@ -5,6 +5,13 @@ date: 1986
 performers: 
 notes: 
 ---
+**Gérard Grisey** was born in Belfort on June 17th, 1946. He studied at the Trossingen Conservatory in Germany from 1963 to 1965 before entering the Conservatoire National Supérieur de Musique in Paris. Here he won prizes for piano accompaniment, harmony, counterpoint, fugue and composition (Olivier Messiaen’s class from 1968 to 1972). During this period, he also attended Henri Dutilleux’s classes at the Ecole Normale de Musique (1968), as well as summer schools at the Accademia Chigiana in Siena (1969), and in Darmstadt with Ligeti, Stockhausen and Xenakis in 1972.
+
+He was granted a scholarship by the Villa Medici in Rome from 1972 to 1974, and in 1973 founded a group called L’Itinéraire with Tristan Murail, Roger Tessier and Michael Levinas, later to be joined by Hugues Dufourt. Dérives, Périodes and Partiels were among the first pieces of spectral music. In 1974-75, he studied acoustics with Emile Leipp at the Paris VI University, and in 1980 became a trainee at the I.R.C.A.M. In the same year he went to Berlin as a guest of the DAAD (Deutscher Akademischer Austausch Dienst), and afterwards left for Berkeley, where he was appointed professor of theory and composition at the University of California (1982-1986). After returning to Europe, he has been teaching composition at the Conservatoire National Supérieur de Musique in Paris since 1987, and holds numerous composition seminars in France (Centre Acanthes, Lyon, Paris) and abroad (Darmstadt, Freiburg, Milan, Reggio Emilia, Oslo, Helsinki, Malmö, Göteborg, Los Angeles, Stanford, London, Moscow, Madrid, etc.).
+
+Gérard Grisey died in Paris on 11 November 1998.
+
+Among his works, most of which were commissioned by famous institutions and international instrumental groups, are Dérives (1973-1974), Jour, Contre-Jour(1978-1979), Tempus ex Machina (1979), Les Chants de l’Amour (1982-1984),Talea (1986), Le Temps et l’Ecume (1988-1989), Le Noir de l’Etoile (1989-1990),L’Icône paradoxale (1993-1994), Les Espaces Acoustiques (1974-1985 - a cycle consisting of six pieces), Vortex Temporum(1994-1996), Quatre chants pour franchir le seuil (1997-1998).
 |||
 "Talea," in Latin, means cutting. In medieval music this term designates a reiterated rhythmic pattern to which a configuration of pitches called "color," likewise reiterated and coinciding or not with the first, is grafted. In the twentieth century we have rediscovered this dissociation between pitches and durations. The idea of a "cutting" of the initial idea, of putting the various rhythmic structures in phase and out of phase, as well of a structure in two parts in which the second could easily be termed "color", have suggested the title of this quintet to me.
 
