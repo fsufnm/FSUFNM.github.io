@@ -3,5 +3,15 @@ composer: "Haas Georg Friedrich"
 composition: "Tria ex uno"
 date: 2001
 performers: Cameron Brown, percussion
-notes: false
+notes: 
 ---
+|||
+Scored for the standard sextet that adds a percussionist to the line-up of Schoenberg’s Pierrot lunaire (flute, clarinet, violin, cello, and piano), this twelve-minute piece (_**Tria ex una**_) exemplifies Haas’s reworking of historical material, based as it is on the second Agnus Dei from a mass by Josquin, his Missa “L’homme armé” super voces musicales, i.e. mass on the much used “L’homme armé” tune, transposed in each movement to a new, higher degree of the scale C–D–E–F–G–A. Admired in its time, this was the setting chosen to open a volume of Josquin’s masses that was printed in 1502, the music’s most astounding feature being its control of harmony under fearsome conditions of polyphonic complexity.
+
+The section that appealed to Haas was one that Renaissance theorists quoted regularly with approval, for it is a faultless “mensuration canon,” a canon whose voices go at different speeds. This example has three voices and so three speeds, the tenor being the slowest, the bass, a fifth below, twice as fast, and the third voice, an octave above the bass, three times as fast. The melody is the same for each voice, but, of course, the slower voices have less of it than the fastest. Three-part counterpoint comes from a single line: three from one, or, as Haas’s title has it, “tria ex uno.”
+
+Haas takes the three-from-one principle a step further, to create a work in three sections. The first straightforwardly assigns Josquin’s vocal parts to instruments: bass clarinet for the tenor, with cello below and violin above. In the second, going on from the example of Webern’s Bach arrangement, Haas distributes the parts around the whole sextet, “with the purpose of making clear the motivic relationships by differentiating the sounds.” Thus, for example, the first melodic interval, a rising minor third, is given to the woodwind instruments: alto flute for the first voice (D–F), being the fastest and uppermost, then bass clarinet (D–F an octave below), then alto flute again (A–C).
+
+“The third part,” Haas writes, “is a new, freestanding composition, in which the music of the Agnus Dei is paraphrased, transferred, and painted over.” This is a very much longer installment (180 measures to the 25 of the Josquin, whether straight or Webernized), and it takes us a huge step further into Haas’s personal world of fragility and half-light, of microtonal deviations and uneasy permanences — also, at times, of startling vehemence. Like the Josquin, the movement begins with the sonority D–A–D, but now extended to make a whole slow, generally quiet introduction, where the notes tremble and rotate in color while their pitches are deformed (re-formed, one might better say) by quarter-tone departures that carry them toward their chromatic neighbors. It is by this process of creeping distonation that the next note of the Josquin is reached, F, but not until measure 22. From there, with growing drama, the piece develops interference patterns between just intonation (the kind Josquin probably expected) and equal temperament. The repeating notes of the original also have their consequences.
+
+-- _Paul Griffiths_
