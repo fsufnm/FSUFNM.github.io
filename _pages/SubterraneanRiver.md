@@ -3,7 +3,7 @@ composer: "Kubík Ladislav"
 composition: "Subterranean River"
 date: 2017
 performers: "Benjamin Sung, violin"
-notes: false
+notes: 
 ---
 **Ladislav Kubík**, eminent Czech-American composer and Professor of Composition at the Florida State University College of Music since 1991, passed away in his sleep on October 27, 2017. Kubík's first orchestral works, composed in his teenage years, received their premieres at the Dvořák Hall at the Rudolphinum in Prague. As a student at the Prague Academy of Music, he received diplomas in composition and music theory in the early 1970s, followed by the "Aspiranture of Arts" in composition in 1980. He was the recipient of many awards and prizes, including first prize in UNESCO’s International Rostrum of Composers Competition, first prize in the International Franz Kafka Composition Competition, first prize in the National Association of College Wind and Percussion Instructors Composition Contest, two Florida Arts Council Individual Artist Fellowships, and (in 2010) a Guggenheim Fellowship.
 
